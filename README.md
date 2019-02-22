@@ -38,32 +38,32 @@
   - [ ] #943 Find the Shortest Superstring
   - [ ] #959 Regions Cut By Slashes
 - [ ] Tree
- - [ ] #94 Binary Tree Inorder Traversal
- - [ ] #100 Same Tree
- - [ ] #102 Binary Tree Level Order Traversal
- - [ ] #814 Binary Tree Pruning
- - [ ] #112 Path Sum
- - [ ] #124 Binary Tree Maximum Path Sum
- - [ ] #129 Sum Root to Leaf Numbers
- - [ ] #236 Lowest Common Ancestor of a Binary Tree
- - [ ] #297 Serialize and Deserialize Binary Tree
- - [ ] #508 Most Frequent Subtree Sum
- - [ ] #968 Binary Tree Cameras
+  - [ ] #94 Binary Tree Inorder Traversal
+  - [ ] #100 Same Tree
+  - [ ] #102 Binary Tree Level Order Traversal
+  - [ ] #814 Binary Tree Pruning
+  - [ ] #112 Path Sum
+  - [ ] #124 Binary Tree Maximum Path Sum
+  - [ ] #129 Sum Root to Leaf Numbers
+  - [ ] #236 Lowest Common Ancestor of a Binary Tree
+  - [ ] #297 Serialize and Deserialize Binary Tree
+  - [ ] #508 Most Frequent Subtree Sum
+  - [ ] #968 Binary Tree Cameras
 - [ ] Binary Search
- - [ ] #35 Search Insert Position
- - [ ] #33 Search in Rotated Sorted Array
- - [ ] #69 Sqrt(x)
- - [ ] #74 Search a 2D Matrix
- - [ ] #378 Kth Smallest Element in a Sorted Matrix
- - [ ] #778 Swim in Rising Water
- - [ ] #4 Median of Two Sorted Arrays
- - [ ] #719 Find K-th Smallest Pair Distance
+  - [ ] #35 Search Insert Position
+  - [ ] #33 Search in Rotated Sorted Array
+  - [ ] #69 Sqrt(x)
+  - [ ] #74 Search a 2D Matrix
+  - [ ] #378 Kth Smallest Element in a Sorted Matrix
+  - [ ] #778 Swim in Rising Water
+  - [ ] #4 Median of Two Sorted Arrays
+  - [ ] #719 Find K-th Smallest Pair Distance
 - [ ] List
- - [ ] #2 Add Two Numbers
- - [ ] #24 Swap Nodes in Pairs
- - [ ] #206 Reverse Linked List
- - [ ] #141 Linked List Cycle
- - [ ] #23 Merge k Sorted Lists
- - [ ] #147 Insertion Sort List
- - [ ] #148 Sort List
- - [ ] #707 Design Linked List
+  - [ ] #2 Add Two Numbers
+  - [ ] #24 Swap Nodes in Pairs
+  - [ ] #206 Reverse Linked List
+  - [ ] #141 Linked List Cycle
+  - [ ] #23 Merge k Sorted Lists
+  - [ ] #147 Insertion Sort List
+  - [ ] #148 Sort List
+  - [ ] #707 Design Linked List
