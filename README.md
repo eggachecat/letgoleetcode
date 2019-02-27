@@ -9,20 +9,20 @@
   - [ ] #542 01 Matrix
   - [ ] #698 Partition to K Equal Sum Subsets
 - [ ] DP
-  - [ ] #70 Climbing Stairs
+  - [x] #70 Climbing Stairs
   - [ ] #303 Range Sum Query - Immutable
-  - [ ] #53 Maximum Subarray
+  - [x] #53 Maximum Subarray
   - [ ] #198 House Robber
   - [ ] #130 Word Break
   - [ ] #300 Longest Increasing Subsequence
-  - [ ] #72 Edit Distance
+  - [x] #72 Edit Distance
   - [ ] #322 Coin Change
   - [ ] #813 Largest Sum of Averages
   - [ ] #312 Burst Balloons
   - [ ] #741 Cherry Pickup
   - [ ] #546 Remove Boxes
   - [ ] #943 Find the Shortest Superstring
-  - [ ] #62 Unique Paths
+  - [x] #62 Unique Paths
   - [ ] #85 Maximal Rectangle
   - [ ] #688 Knight Probability in Chessboard
 - [ ] Graph
